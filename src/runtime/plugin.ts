@@ -1,7 +1,7 @@
 import { DefaultApolloClient } from '@vue/apollo-composable';
 import { defineNuxtPlugin, useRuntimeConfig } from '#app';
 
-import createApolloClient from '../apollo';
+import createApolloClient from './apollo';
 
 export default defineNuxtPlugin((nuxtApp) => {
     const config = useRuntimeConfig().public.apollo;

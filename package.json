@@ -1,6 +1,6 @@
 {
     "name": "@hrwg/apollo-nuxt",
-    "version": "1.0.0",
+    "version": "0.1.1",
     "description": "Nuxt 3 integration for Apollo GraphQL",
     "keywords": [
         "nuxt",
