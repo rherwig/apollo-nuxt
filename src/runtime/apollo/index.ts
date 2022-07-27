@@ -1,7 +1,6 @@
 import { ApolloClient, createHttpLink, InMemoryCache } from '@apollo/client/core';
-import fetch from 'cross-fetch';
 
-import { ModuleOptions } from '../module';
+import { ModuleOptions } from '../../module';
 
 export type ApolloConfig = ModuleOptions & {
     initialState: string;
@@ -12,7 +11,6 @@ export default (config: ApolloConfig) => {
 
     const httpLink = createHttpLink({
         uri,
-        fetch,
     });
 
     const cache = new InMemoryCache();
