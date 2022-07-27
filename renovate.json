@@ -1,0 +1,22 @@
+{
+    "extends": [
+        "config:base",
+        ":pinOnlyDevDependencies",
+        ":disablePeerDependencies",
+        ":disableDependencyDashboard"
+    ],
+    "labels": ["dependencies"],
+    "semanticCommitType": "chore",
+    "rangeStrategy": "bump",
+    "packageRules": [
+        {
+            "matchPackageNames": [
+                "@vue/apollo-composable"
+            ],
+            "automerge": false
+        }
+    ],
+    "npm": {
+        "stabilityDays": 2
+    }
+}
