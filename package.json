@@ -46,7 +46,7 @@
         "@nuxt/module-builder": "latest",
         "eslint": "8.21.0",
         "eslint-plugin-import": "2.26.0",
-        "nuxt": "3.0.0-rc.6",
+        "nuxt": "3.0.0-rc.8",
         "vue": "3.2.37"
     }
 }
