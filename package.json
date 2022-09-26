@@ -42,7 +42,7 @@
         "graphql-tag": "^2.12.6"
     },
     "devDependencies": {
-        "@kellerkinder/eslint-config": "3.0.0",
+        "@kellerkinder/eslint-config": "3.2.0",
         "@nuxt/module-builder": "latest",
         "eslint": "8.24.0",
         "eslint-plugin-import": "2.26.0",
