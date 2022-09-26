@@ -47,6 +47,6 @@
         "eslint": "8.24.0",
         "eslint-plugin-import": "2.26.0",
         "nuxt": "3.0.0-rc.8",
-        "vue": "3.2.37"
+        "vue": "3.2.39"
     }
 }
