@@ -35,7 +35,7 @@
         "lint:fix": "eslint src/ --fix"
     },
     "dependencies": {
-        "@apollo/client": "^3.6.9",
+        "@apollo/client": "^4.0.0",
         "@nuxt/kit": "^3.0.0-rc.6",
         "@vue/apollo-composable": "^4.0.0-alpha.19",
         "graphql": "^16.5.0",
