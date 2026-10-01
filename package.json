@@ -36,7 +36,7 @@
     },
     "dependencies": {
         "@apollo/client": "^3.6.9",
-        "@nuxt/kit": "^3.0.0-rc.6",
+        "@nuxt/kit": "^4.0.0",
         "@vue/apollo-composable": "^4.0.0-alpha.19",
         "graphql": "^16.5.0",
         "graphql-tag": "^2.12.6"
@@ -46,7 +46,7 @@
         "@nuxt/module-builder": "latest",
         "eslint": "8.27.0",
         "eslint-plugin-import": "2.26.0",
-        "nuxt": "3.0.0-rc.13",
+        "nuxt": "4.5.2",
         "vue": "3.2.45"
     }
 }
