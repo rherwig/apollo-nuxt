@@ -44,7 +44,7 @@
     "devDependencies": {
         "@kellerkinder/eslint-config": "3.2.0",
         "@nuxt/module-builder": "latest",
-        "eslint": "8.27.0",
+        "eslint": "8.57.1",
         "eslint-plugin-import": "2.26.0",
         "nuxt": "3.0.0-rc.13",
         "vue": "3.2.45"
